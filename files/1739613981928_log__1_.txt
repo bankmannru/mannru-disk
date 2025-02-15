@@ -1,0 +1,188 @@
+[2025.02.14 12:06:30] Launched version: 5010003, install beta: [FALSE], alpha: 0, debug mode: [FALSE]
+[2025.02.14 12:06:30] Executable dir: D:/Downloads/, name: AyuGram.exe
+[2025.02.14 12:06:30] Initial working dir: C:/Windows/system32/
+[2025.02.14 12:06:30] Working dir: D:/Downloads/
+[2025.02.14 12:06:30] Command line: D:\Downloads\AyuGram.exe
+[2025.02.14 12:06:30] Executable path before check: D:/Downloads/AyuGram.exe
+[2025.02.14 12:06:30] Logs started
+[2025.02.14 12:06:30] AppUserModelID: AyuGram.AyuGramDesktop.e6045cc6474ccf5271cc3227923fa249
+[2025.02.14 12:06:30] Using DirectX compiler 'C:\Windows\SYSTEM32\d3dcompiler_47.dll'.
+[2025.02.14 12:06:30] Connecting local socket to Global\c0357403ca4506b4bb5326937fec6a42-{87A94AB0-E370-4cde-98D3-ACC110C59666}...
+[2025.02.14 12:06:30] This is the only instance of Telegram, starting server and app...
+[2025.02.14 12:06:34] Moved logging from 'D:/Downloads/log_start0.txt' to 'D:/Downloads/log.txt'!
+[2025.02.14 12:06:34] Opened 'D:/Downloads/tdata/working' for reading, the previous AyuGram Desktop launch was not finished properly :( Crash log size: 0
+[2025.02.14 12:06:34] Global devicePixelRatio: 1
+[2025.02.14 12:06:34] QT_DPI_ADJUSTMENT_POLICY: AdjustDpi
+[2025.02.14 12:06:34] Primary screen DPI: 96, Base: 96.
+[2025.02.14 12:06:34] Computed screen scale: 100
+[2025.02.14 12:06:34] DevicePixelRatio: 1
+[2025.02.14 12:06:34] ScreenScale: 100
+[2025.02.14 12:06:34] Media Info: Type Playback, default: {0.0.0.00000000}.{89c7481a-ef25-4393-903d-3d444126cd05}, list: { "Speakers (High Definition Audio Device)" <{0.0.0.00000000}.{0357f719-c68e-47e1-8b34-a02935cd6b3d}>, "Digital Audio (HDMI) (2- High Definition Audio Device)" <{0.0.0.00000000}.{37bc5c56-426f-41b9-8257-7ef35a921293}>, "Internal AUX Jack (High Definition Audio Device)" <{0.0.0.00000000}.{403317ec-9afa-4c15-846b-8596efd066f4}>, "Headphones (High Definition Audio Device)" <{0.0.0.00000000}.{577c6cf0-1334-448f-9414-d525f67a526a}>, "Digital Audio (HDMI) (2- High Definition Audio Device)" <{0.0.0.00000000}.{87ea8c83-3247-4486-aef0-221b47edb359}>, "Digital Audio (HDMI) (2- High Definition Audio Device)" <{0.0.0.00000000}.{89c7481a-ef25-4393-903d-3d444126cd05}>, "Digital Audio (HDMI) (2- High Definition Audio Device)" <{0.0.0.00000000}.{99bc41a8-e30b-4e9e-bffc-5598b400de6b}>, "Headset (WH-CH520 Hands-Free AG Audio)" <{0.0.0.00000000}.{d7961953-98c1-4dcc-99a9-ea389d97644e}>, "Headphones (WH-CH520 Stereo)" <{0.0.0.00000000}.{e47d853e-b42c-4df8-bb20-32a61a171f43}>, "Internal AUX Jack (High Definition Audio Device)" <{0.0.0.00000000}.{e841b9c4-59b4-4cf5-bc9f-7f211f6cb977}>, "Digital Audio (HDMI) (2- High Definition Audio Device)" <{0.0.0.00000000}.{eba718bf-87f8-4473-ad8e-6eb7cab61dcb}>, "Digital Audio (S/PDIF) (High Definition Audio Device)" <{0.0.0.00000000}.{f1993161-d6d8-4c4c-9a06-aa7d1cb34246}> }, full list refresh: false
+[2025.02.14 12:06:34] Media Error: Can't sync default device for type Capture, default: , list: { "Internal AUX Jack (High Definition Audio Device)" <{0.0.1.00000000}.{16881eba-0b03-44a2-b537-51840f446b9f}>, "Internal AUX Jack (2- High Definition Audio Device)" <{0.0.1.00000000}.{16d1cba7-4bb2-443d-a713-0fe237829cfb}>, "Internal AUX Jack (2- High Definition Audio Device)" <{0.0.1.00000000}.{1b187d71-0579-484b-a598-06f70f93ed6f}>, "Internal AUX Jack (2- High Definition Audio Device)" <{0.0.1.00000000}.{252f2ad2-47e7-429f-8183-62f8314ae77d}>, "Headset (WH-CH520 Hands-Free AG Audio)" <{0.0.1.00000000}.{4b0f9e39-df8e-4085-89cf-7b72c5f2dd9c}>, "Microphone (High Definition Audio Device)" <{0.0.1.00000000}.{4e9f2836-b0aa-4707-a23d-7f288ba843f8}>, "Internal AUX Jack (2- High Definition Audio Device)" <{0.0.1.00000000}.{7e6713de-b4d4-4ee6-ac46-6474b41bfe6d}>, "Microphone (High Definition Audio Device)" <{0.0.1.00000000}.{9463d409-b2aa-43bf-bff2-077ec7742014}>, "Line In (High Definition Audio Device)" <{0.0.1.00000000}.{a2e18961-376b-49a7-b91b-05bc69af52a4}>, "Internal AUX Jack (High Definition Audio Device)" <{0.0.1.00000000}.{e36d473a-28ac-4d51-9150-abd00ab05a87}> }
+[2025.02.14 12:06:34] Media Error: Can't sync default device for type Camera, default: , list: {  }
+[2025.02.14 12:06:35] App Info: reading settings...
+[2025.02.14 12:06:35] App Info: reading encrypted settings...
+[2025.02.14 12:06:35] Lang Info: Loaded cached, keys: 8488
+[2025.02.14 12:06:35] Font: from ':/gui/fonts/OpenSans-Regular.ttf' loaded 'Open Sans'
+[2025.02.14 12:06:35] Font: from ':/gui/fonts/OpenSans-Italic.ttf' loaded 'Open Sans'
+[2025.02.14 12:06:35] Font: from ':/gui/fonts/OpenSans-SemiBold.ttf' loaded 'Open Sans Semibold'
+[2025.02.14 12:06:35] Font: from ':/gui/fonts/OpenSans-SemiBoldItalic.ttf' loaded 'Open Sans Semibold'
+[2025.02.14 12:06:35] Font: from ':/gui/fonts/Vazirmatn-UI-NL-Regular.ttf' loaded 'Vazirmatn UI NL'
+[2025.02.14 12:06:35] Font: from ':/gui/fonts/Vazirmatn-UI-NL-SemiBold.ttf' loaded 'Vazirmatn UI NL SemiBold'
+[2025.02.14 12:06:35] RCManager: requesting map
+[2025.02.14 12:06:36] OpenAL Logging Level: (not set)
+[2025.02.14 12:06:37] App Info: reading accounts info...
+[2025.02.14 12:06:37] App Info: reading encrypted info...
+[2025.02.14 12:06:37] App Info: reading map...
+[2025.02.14 12:06:37] App Info: reading encrypted map...
+[2025.02.14 12:06:37] App Info: reading encrypted user settings...
+[2025.02.14 12:06:37] App Info: encrypted user settings read.
+[2025.02.14 12:06:37] App Info: reading encrypted mtp data...
+[2025.02.14 12:06:37] MTP Info: read keys, current: 5, to destroy: 0
+[2025.02.14 12:06:37] Map read time: 184
+[2025.02.14 12:06:37] App Info: reading encrypted mtp config...
+[2025.02.14 12:06:38] Export Info: Destroy top bar by controller removal.
+[2025.02.14 12:06:38] OpenGL: Using custom 'gpu_driver_bug_list.json'.
+[2025.02.14 12:06:39] OpenGL Profile: OpenGLES.
+[2025.02.14 12:06:39] OpenGL Renderer: ANGLE (AMD, Radeon (TM) RX 470 Graphics Direct3D11 vs_5_0 ps_5_0, D3D11-31.0.12027.9001)
+[2025.02.14 12:06:39] OpenGL Vendor: Google Inc. (AMD)
+[2025.02.14 12:06:39] OpenGL Version: OpenGL ES 3.0.0 (ANGLE 2.1.10 git hash: e3f59e8d0c3e)
+[2025.02.14 12:06:39] OpenGL Extensions: GL_ANGLE_copy_texture_3d, GL_NV_framebuffer_blit, GL_OES_compressed_EAC_RG11_unsigned_texture, GL_EXT_occlusion_query_boolean, GL_ANGLE_clip_cull_distance, GL_OES_compressed_ETC2_RGBA8_texture, GL_ANGLE_translated_shader_source, GL_EXT_draw_elements_base_vertex, GL_NV_pack_subimage, GL_ANGLE_texture_multisample, GL_EXT_float_blend, GL_ANGLE_texture_usage, GL_ANGLE_depth_texture, GL_EXT_EGL_image_external_wrap_modes, GL_ANGLE_framebuffer_blit, GL_ANGLE_client_arrays, GL_EXT_clip_control, GL_EXT_clip_cull_distance, GL_EXT_sRGB, GL_OES_compressed_ETC2_RGB8_texture, GL_KHR_parallel_shader_compile, GL_AMD_performance_monitor, GL_EXT_color_buffer_half_float, GL_ANGLE_instanced_arrays, GL_OES_compressed_EAC_R11_signed_texture, GL_EXT_texture_rg, GL_OES_draw_buffers_indexed, GL_OVR_multiview, GL_OVR_multiview2, GL_EXT_texture_filter_anisotropic, GL_OES_texture_float, GL_EXT_disjoint_timer_query, GL_ANGLE_texture_compression_dxt3, GL_OES_mapbuffer, , GL_EXT_blend_func_extended, GL_EXT_polygon_offset_clamp, GL_OES_surfaceless_context, GL_OES_texture_npot, GL_CHROMIUM_copy_compressed_texture, GL_EXT_map_buffer_range, GL_ANGLE_polygon_mode, GL_OES_depth32, GL_OES_texture_border_clamp, GL_EXT_texture_storage, GL_OES_texture_half_float_linear, GL_ANGLE_pack_reverse_row_order, GL_EXT_texture_mirror_clamp_to_edge, GL_ANGLE_multi_draw, GL_ANGLE_program_cache_control, GL_CHROMIUM_sync_query, GL_OES_packed_depth_stencil, GL_ANGLE_robust_client_memory, GL_EXT_depth_clamp, GL_EXT_debug_label, GL_OES_draw_elements_base_vertex, GL_EXT_texture_compression_rgtc, GL_ANGLE_provoking_vertex, GL_EXT_texture_compression_dxt1, GL_OES_compressed_ETC2_sRGB8_alpha8_texture, GL_OES_depth24, GL_ANGLE_base_vertex_base_instance, GL_OES_texture_half_float, GL_EXT_texture_type_2_10_10_10_REV, GL_ANGLE_memory_size, GL_CHROMIUM_bind_uniform_location, GL_OES_texture_float_linear, GL_NV_EGL_stream_consumer_external, GL_EXT_shader_texture_lod, GL_OES_compressed_ETC2_punchthroughA_sRGB8_alpha_texture, GL_ANGLE_base_vertex_base_instance_shader_builtin, GL_OES_compressed_EAC_RG11_signed_texture, GL_ANGLE_lossy_etc_decode, GL_OES_EGL_image_external_essl3, GL_EXT_color_buffer_float, GL_EXT_debug_marker, GL_ANGLE_framebuffer_multisample, GL_OES_get_program_binary, GL_ANGLE_request_extension, GL_EXT_texture_compression_s3tc_srgb, GL_ANGLE_renderability_validation, GL_NV_shader_noperspective_interpolation, GL_OES_EGL_image, GL_EXT_base_instance, GL_ANGLE_get_tex_level_parameter, GL_EXT_draw_buffers_indexed, GL_NV_fence, GL_KHR_debug, GL_OES_rgb8_rgba8, GL_EXT_texture_compression_bptc, GL_OES_sample_variables, GL_EXT_texture_border_clamp, GL_OES_compressed_EAC_R11_unsigned_texture, GL_OES_element_index_uint, GL_EXT_texture_format_BGRA8888, GL_OES_standard_derivatives, GL_WEBGL_video_texture, GL_ANGLE_multiview_multisample, GL_EXT_unpack_subimage, GL_NV_pixel_buffer_object, GL_ANGLE_get_serialized_context_string, GL_ANGLE_shader_pixel_local_storage, GL_EXT_frag_depth, GL_EXT_robustness, GL_OES_compressed_ETC2_sRGB8_texture, GL_EXT_blend_minmax, GL_EXT_draw_buffers, GL_OES_EGL_image_external, GL_OES_compressed_ETC2_punchthroughA_RGBA8_texture, GL_EXT_instanced_arrays, GL_CHROMIUM_lose_context, GL_EXT_multi_draw_indirect, GL_CHROMIUM_bind_generates_resource, GL_CHROMIUM_copy_texture, GL_APPLE_clip_distance, GL_OES_texture_stencil8, GL_EXT_read_format_bgra, GL_ANGLE_stencil_texturing, GL_EXT_conservative_depth, GL_OES_fbo_render_mipmap, GL_EXT_texture_norm16, GL_ANGLE_texture_compression_dxt5, GL_OES_shader_multisample_interpolation, GL_EXT_multisampled_render_to_texture, GL_EXT_discard_framebuffer, GL_OES_vertex_array_object, GL_EXT_render_snorm
+[2025.02.14 12:06:39] EGL Extensions: EGL_EXT_create_context_robustness, EGL_ANGLE_d3d_share_handle_client_buffer, EGL_ANGLE_d3d_texture_client_buffer, EGL_ANGLE_surface_d3d_texture_2d_share_handle, EGL_ANGLE_query_surface_pointer, EGL_ANGLE_window_fixed_size, EGL_ANGLE_keyed_mutex, EGL_ANGLE_surface_orientation, EGL_ANGLE_direct_composition, EGL_ANGLE_windows_ui_composition, EGL_NV_post_sub_buffer, EGL_KHR_create_context, EGL_KHR_image, EGL_KHR_image_base, EGL_KHR_gl_texture_2D_image, EGL_KHR_gl_texture_cubemap_image, EGL_KHR_gl_renderbuffer_image, EGL_KHR_get_all_proc_addresses, EGL_KHR_stream, EGL_KHR_stream_consumer_gltexture, EGL_NV_stream_consumer_gltexture_yuv, EGL_ANGLE_stream_producer_d3d_texture, EGL_ANGLE_create_context_webgl_compatibility, EGL_CHROMIUM_create_context_bind_generates_resource, EGL_CHROMIUM_sync_control, EGL_EXT_pixel_format_float, EGL_KHR_surfaceless_context, EGL_ANGLE_display_texture_share_group, EGL_ANGLE_display_semaphore_share_group, EGL_ANGLE_create_context_client_arrays, EGL_ANGLE_program_cache_control, EGL_ANGLE_robust_resource_initialization, EGL_ANGLE_create_context_extensions_enabled, EGL_ANDROID_blob_cache, EGL_ANDROID_recordable, EGL_ANGLE_image_d3d11_texture, EGL_ANGLE_create_context_backwards_compatible, EGL_KHR_no_config_context, EGL_KHR_create_context_no_error, EGL_KHR_reusable_sync, 
+[2025.02.14 12:06:39] OpenGL: QOpenGLContext created, version: 3.3.
+[2025.02.14 12:06:39] OpenGL: [TRUE] (Window)
+[2025.02.14 12:06:40] RCManager: Loaded 20 developers, 15 channels
+[2025.02.14 12:06:40] Config Error: Failed to parse dns response JSON, error: illegal value
+[2025.02.14 12:06:45] API Warning: not loaded minimal channel applied.
+[2025.02.14 12:07:09] Skipping message, because it is already in blocks!
+[2025.02.14 12:07:24] Skipping message, because it is already in blocks!
+[2025.02.14 12:07:45] RPC Error: request 183 got fail with code 400, error PEER_ID_INVALID
+[2025.02.14 12:07:54] RPC Error: request 212 got fail with code 400, error USER_NOT_PARTICIPANT
+[2025.02.14 12:07:54] RPC Error: request 210 got fail with code 400, error PEER_ID_INVALID
+[2025.02.14 12:09:08] RPC Error: request 266 got fail with code 400, error USER_NOT_PARTICIPANT
+[2025.02.14 12:09:49] Skipping message, because it is already in blocks!
+[2025.02.14 12:10:05] Skipping message, because it is already in blocks!
+[2025.02.14 12:11:43] Skipping message, because it is already in blocks!
+[2025.02.14 12:14:49] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.14 12:14:52] Audio Info: Closing audio playback device.
+[2025.02.14 12:19:40] Config Error: Failed to parse dns response JSON, error: illegal value
+[2025.02.14 12:33:42] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.14 12:33:44] Audio Info: Closing audio playback device.
+[2025.02.14 12:33:46] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.14 12:33:48] Audio Info: Closing audio playback device.
+[2025.02.14 12:38:48] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.14 12:38:50] Audio Info: Closing audio playback device.
+[2025.02.14 12:49:16] Config Error: Failed to parse dns response JSON, error: illegal value
+[2025.02.14 17:01:08] RCManager: requesting map
+[2025.02.14 17:01:10] RCManager: Error 3
+[2025.02.14 17:01:20] Config Error: Failed to parse dns response JSON, error: illegal value
+[2025.02.14 17:01:21] Config Error: Failed to parse dns response JSON, error: illegal value
+[2025.02.14 17:01:21] Config Error: Failed to parse dns response JSON, error: illegal value
+[2025.02.14 17:01:22] Config Error: Failed to parse dns response JSON, error: illegal value
+[2025.02.14 17:01:22] Config Error: Failed to parse dns response JSON, error: illegal value
+[2025.02.14 17:01:22] Config Error: Failed to parse dns response JSON, error: illegal value
+[2025.02.14 17:01:22] Config Error: Failed to parse dns response JSON, error: illegal value
+[2025.02.14 17:01:22] Config Error: Failed to parse dns response JSON, error: illegal value
+[2025.02.14 17:02:26] Skipping message, because it is already in blocks!
+[2025.02.14 17:02:54] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.14 17:02:56] Audio Info: Closing audio playback device.
+[2025.02.14 17:03:01] Skipping message, because it is already in blocks!
+[2025.02.14 17:16:16] Config Error: Failed to parse dns response JSON, error: illegal value
+[2025.02.14 17:16:17] Config Error: Failed to parse dns response JSON, error: illegal value
+[2025.02.14 17:16:29] Skipping message, because it is already in blocks!
+[2025.02.14 17:17:53] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.14 17:17:55] Audio Info: Closing audio playback device.
+[2025.02.14 17:18:16] Skipping message, because it is already in blocks!
+[2025.02.14 17:23:46] Skipping message, because it is already in blocks!
+[2025.02.14 17:24:36] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.14 17:24:38] Audio Info: Closing audio playback device.
+[2025.02.14 17:25:08] Skipping message, because it is already in blocks!
+[2025.02.14 17:25:51] Config Error: Failed to parse dns response JSON, error: illegal value
+[2025.02.14 17:28:26] Config Error: Failed to parse dns response JSON, error: illegal value
+[2025.02.14 17:29:32] Config Error: Failed to parse dns response JSON, error: illegal value
+[2025.02.14 17:35:04] Config Error: Failed to parse dns response JSON, error: illegal value
+[2025.02.14 17:35:04] Config Error: Failed to parse dns response JSON, error: illegal value
+[2025.02.14 17:39:55] Media Error: Can't sync default device for type Capture, default: , list: { "Internal AUX Jack (High Definition Audio Device)" <{0.0.1.00000000}.{16881eba-0b03-44a2-b537-51840f446b9f}>, "Internal AUX Jack (2- High Definition Audio Device)" <{0.0.1.00000000}.{16d1cba7-4bb2-443d-a713-0fe237829cfb}>, "Internal AUX Jack (2- High Definition Audio Device)" <{0.0.1.00000000}.{1b187d71-0579-484b-a598-06f70f93ed6f}>, "Internal AUX Jack (2- High Definition Audio Device)" <{0.0.1.00000000}.{252f2ad2-47e7-429f-8183-62f8314ae77d}>, "Headset (WH-CH520 Hands-Free AG Audio)" <{0.0.1.00000000}.{4b0f9e39-df8e-4085-89cf-7b72c5f2dd9c}>, "Microphone (High Definition Audio Device)" <{0.0.1.00000000}.{4e9f2836-b0aa-4707-a23d-7f288ba843f8}>, "Internal AUX Jack (2- High Definition Audio Device)" <{0.0.1.00000000}.{7e6713de-b4d4-4ee6-ac46-6474b41bfe6d}>, "Microphone (High Definition Audio Device)" <{0.0.1.00000000}.{9463d409-b2aa-43bf-bff2-077ec7742014}>, "Line In (High Definition Audio Device)" <{0.0.1.00000000}.{a2e18961-376b-49a7-b91b-05bc69af52a4}>, "Internal AUX Jack (High Definition Audio Device)" <{0.0.1.00000000}.{e36d473a-28ac-4d51-9150-abd00ab05a87}> }
+[2025.02.14 17:44:06] Config Error: Failed to parse dns response JSON, error: illegal value
+[2025.02.14 17:53:06] Config Error: Failed to parse dns response JSON, error: illegal value
+[2025.02.14 17:53:06] Config Error: Failed to parse dns response JSON, error: illegal value
+[2025.02.14 17:56:53] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.14 17:56:55] Audio Info: Closing audio playback device.
+[2025.02.14 17:59:06] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.14 17:59:08] Audio Info: Closing audio playback device.
+[2025.02.14 17:59:28] Config Error: Failed to parse dns response JSON, error: illegal value
+[2025.02.14 18:01:06] RCManager: requesting map
+[2025.02.14 18:01:07] RCManager: Loaded 20 developers, 15 channels
+[2025.02.14 18:05:33] Config Error: Failed to parse dns response JSON, error: illegal value
+[2025.02.14 18:06:14] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.14 18:06:15] Audio Info: Closing audio playback device.
+[2025.02.14 19:09:01] RCManager: requesting map
+[2025.02.14 19:09:03] RCManager: Error 3
+[2025.02.14 19:09:12] Config Error: Failed to parse dns response JSON, error: illegal value
+[2025.02.14 19:09:12] Config Error: Failed to parse dns response JSON, error: illegal value
+[2025.02.14 19:12:30] API Error: Got empty admins list from server.
+[2025.02.14 19:12:31] RPC Error: request 705 got fail with code 400, error STICKERSET_INVALID
+[2025.02.14 19:25:47] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.14 19:25:49] Config Error: Failed to parse dns response JSON, error: illegal value
+[2025.02.14 19:25:49] Audio Info: Closing audio playback device.
+[2025.02.14 19:41:44] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.14 19:41:46] Audio Info: Closing audio playback device.
+[2025.02.14 19:42:56] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.14 19:42:59] Audio Info: Closing audio playback device.
+[2025.02.14 20:09:01] RCManager: requesting map
+[2025.02.14 20:09:01] RCManager: Loaded 20 developers, 15 channels
+[2025.02.14 21:00:28] Config Error: Failed to parse dns response JSON, error: illegal value
+[2025.02.14 21:09:01] RCManager: requesting map
+[2025.02.14 21:09:01] RCManager: Loaded 20 developers, 15 channels
+[2025.02.14 21:20:50] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.14 21:20:52] Audio Info: Closing audio playback device.
+[2025.02.14 21:21:22] Skipping message, because it is already in blocks!
+[2025.02.14 21:21:24] Config Error: Failed to parse dns response JSON, error: illegal value
+[2025.02.14 21:21:39] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.14 21:21:42] Audio Info: Closing audio playback device.
+[2025.02.14 21:21:48] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.14 21:21:51] Audio Info: Closing audio playback device.
+[2025.02.14 21:22:14] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.14 21:22:16] Audio Info: Closing audio playback device.
+[2025.02.14 21:22:22] Skipping message, because it is already in blocks!
+[2025.02.14 21:22:27] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.14 21:22:29] Audio Info: Closing audio playback device.
+[2025.02.14 21:22:32] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.14 21:22:34] Audio Info: Closing audio playback device.
+[2025.02.14 21:22:35] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.14 21:22:37] Audio Info: Closing audio playback device.
+[2025.02.14 21:22:50] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.14 21:22:52] Audio Info: Closing audio playback device.
+[2025.02.14 21:22:58] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.14 21:23:00] Audio Info: Closing audio playback device.
+[2025.02.14 21:23:13] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.14 21:23:15] Audio Info: Closing audio playback device.
+[2025.02.14 21:23:27] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.14 21:23:29] Audio Info: Closing audio playback device.
+[2025.02.14 21:23:32] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.14 21:23:34] Audio Info: Closing audio playback device.
+[2025.02.14 21:23:44] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.14 21:23:46] Audio Info: Closing audio playback device.
+[2025.02.14 21:24:00] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.14 21:24:02] Audio Info: Closing audio playback device.
+[2025.02.14 21:24:05] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.14 21:24:08] Audio Info: Closing audio playback device.
+[2025.02.14 21:24:14] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.14 21:24:17] Audio Info: Closing audio playback device.
+[2025.02.14 21:24:27] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.14 21:24:30] Audio Info: Closing audio playback device.
+[2025.02.14 21:24:31] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.14 21:24:33] Audio Info: Closing audio playback device.
+[2025.02.14 21:25:02] Skipping message, because it is already in blocks!
+[2025.02.14 21:25:20] Skipping message, because it is already in blocks!
+[2025.02.14 21:25:25] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.14 21:25:27] Audio Info: Closing audio playback device.
+[2025.02.14 21:25:35] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.14 21:25:37] Audio Info: Closing audio playback device.
+[2025.02.14 21:26:43] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.14 21:26:45] Audio Info: Closing audio playback device.
+[2025.02.14 21:31:43] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.14 21:31:44] Config Error: Failed to parse dns response JSON, error: illegal value
+[2025.02.14 21:31:45] Audio Info: Closing audio playback device.
+[2025.02.14 21:31:53] Audio Info: recreating audio device and reattaching the tracks
+[2025.02.14 21:31:55] Audio Info: Closing audio playback device.
